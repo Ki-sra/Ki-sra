@@ -3,7 +3,7 @@
 ### 👀 Aspiring developer passionate about coding and problem-solving
 
 
-- 🌱 I'm currently learning **HTML, CSS, Python, and expanding my skills**
+- 🌱 I'm currently learning **React, laravel and expanding my skills**
 
 - 👯 I'm looking to collaborate on **web and software projects**
 
