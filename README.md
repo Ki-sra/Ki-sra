@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hamza Kousra
+# Hi 👋, I'm Kisra
 
 ### 👀 Aspiring developer passionate about coding and problem-solving
 
