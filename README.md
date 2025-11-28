@@ -2,7 +2,6 @@
 
 ### 👀 Aspiring developer passionate about coding and problem-solving
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ki_sra" alt="Ki_sra" /></a> </p>
 
 - 🌱 I'm currently learning **HTML, CSS, Python, and expanding my skills**
 
